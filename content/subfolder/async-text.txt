@@ -1,0 +1,1 @@
+the full async text is This is the first text, this is the second text
